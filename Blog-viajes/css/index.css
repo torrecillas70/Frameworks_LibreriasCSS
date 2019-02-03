@@ -1,0 +1,40 @@
+.fondo {
+background-image: url(../img/fondo3.jpg);
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+height: 100%;
+}
+
+.barra-superior {
+  min-height: 8rem;
+}
+
+.logo {
+  margin-top: 2rem;
+  margin-left: 6rem;
+  width: 180px;
+  float: left;
+}
+
+.info{
+  background: #FFF;
+  width: 50px;
+}
+
+.com{
+  background:#FFF;
+  widh: 50px;
+}
+.nav-wrapper {
+  background: #0212e6;
+}
+.btn-small{
+  height: 25.4px;
+  line-height: 22.4px;
+  font-size: 10px;
+}
+.letra {
+color: #FFF;
+}
