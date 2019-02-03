@@ -1,0 +1,28 @@
+body {
+  background-image:url(../img/fondo.png);
+  line-height: 1;
+  cursor: default;
+}
+
+.row {
+	background: #A9BCF5;
+}
+
+.cuadro{
+	background: #CECEF6;
+}
+.cuadro2{
+	background: #F3E2A9;
+}
+.letra {
+	color: #D358F7;
+}
+
+.button.hollow.secondary{
+	border: 1px solid #D358F7;
+	color: #D358F7;
+}
+
+.button{
+	background: #D358F7;
+}
